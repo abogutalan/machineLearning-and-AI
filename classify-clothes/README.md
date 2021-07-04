@@ -14,4 +14,4 @@
 ##### Resources:
 * https://www.tensorflow.org/tutorials/keras/classification
 
-*https://machinelearningmastery.com/argmax-in-machine-learning/
+* https://machinelearningmastery.com/argmax-in-machine-learning/
